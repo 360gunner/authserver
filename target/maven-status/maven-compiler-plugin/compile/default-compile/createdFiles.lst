@@ -1,0 +1,13 @@
+com\microservices\elit\AuthserverApplication$OAuth2AuthorizationConfig$1.class
+com\microservices\elit\model\Users.class
+com\microservices\elit\model\RoleCRUD.class
+com\microservices\elit\model\CustomUserDetails.class
+com\microservices\elit\model\HTTPTYPE.class
+com\microservices\elit\repository\UsersRepository.class
+com\microservices\elit\AuthserverApplication$OAuth2AuthorizationConfig.class
+com\microservices\elit\service\CustomUserDetailsService.class
+com\microservices\elit\model\Role.class
+com\microservices\elit\AuthserverApplication.class
+com\microservices\elit\repository\RoleRepo.class
+com\microservices\elit\AuthserverApplication$LoginConfig.class
+com\microservices\elit\model\UsersCRUD.class
